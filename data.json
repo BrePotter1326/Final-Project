@@ -1,0 +1,1215 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+   "num_results":1533,
+   "results":[
+      {
+         "url":"https:\/\/www.nytimes.com\/interactive\/2019\/04\/14\/us\/politics\/2020-candidates-tax-returns.html",
+         "adx_keywords":"Presidential Election of 2020;Income Tax;Sanders, Bernard;Gillibrand, Kirsten E;Klobuchar, Amy;Inslee, Jay;Warren, Elizabeth",
+         "column":"",
+         "section":"U.S.",
+         "byline":"By THOMAS KAPLAN, JASMINE C. LEE and DENISE LU",
+         "type":"Interactive",
+         "title":"How Kamala Harris\u2019s Tax Returns Compares to Those of Other Candidates",
+         "abstract":"The candidates\u2019 tax returns showed that they earned substantially more than a vast majority of American households.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006458886,
+         "asset_id":100000006458886,
+         "views":1,
+         "des_facet":[
+            "PRESIDENTIAL ELECTION OF 2020",
+            "INCOME TAX"
+         ],
+         "org_facet":"",
+         "per_facet":[
+            "SANDERS, BERNARD",
+            "GILLIBRAND, KIRSTEN E",
+            "KLOBUCHAR, AMY",
+            "INSLEE, JAY",
+            "WARREN, ELIZABETH"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":null,
+               "copyright":null,
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/2020-candidates-tax-returns-promo-1555242819752\/2020-candidates-tax-returns-promo-1555242819752-thumbStandard-v2.png",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/2020-candidates-tax-returns-promo-1555242819752\/2020-candidates-tax-returns-promo-1555242819752-mediumThreeByTwo210-v2.png",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/2020-candidates-tax-returns-promo-1555242819752\/2020-candidates-tax-returns-promo-1555242819752-mediumThreeByTwo440-v2.png",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/interactive\/fa59739f-e8ea-5ccb-b229-c5a9d2ce6661"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/sports\/tiger-woods-wins-masters.html",
+         "adx_keywords":"Woods, Tiger;Masters Golf Tournament;Golf;Nicklaus, Jack",
+         "column":null,
+         "section":"Sports",
+         "byline":"By KAREN CROUSE",
+         "type":"Article",
+         "title":"Tiger Woods, in a Stirring Return to the Top, Captures the Masters at 43",
+         "abstract":"After four back operations and nearly a decade of struggles on and off the golf course, Woods is back at the pinnacle.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006460273,
+         "asset_id":100000006460273,
+         "views":2,
+         "des_facet":[
+            "GOLF"
+         ],
+         "org_facet":[
+            "MASTERS GOLF TOURNAMENT"
+         ],
+         "per_facet":[
+            "WOODS, TIGER",
+            "NICKLAUS, JACK"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Tiger Woods captured his fifth Masters title and his 15th major tournament on Sunday.",
+               "copyright":"Doug Mills\/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/sports\/14masters-doug-1\/14masters-doug-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/sports\/14masters-doug-1\/merlin_153530370_d5f41d73-2cc6-44b9-b68c-2e9a5a72ade6-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/sports\/14masters-doug-1\/merlin_153530370_d5f41d73-2cc6-44b9-b68c-2e9a5a72ade6-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/1d88ba62-d3d6-5f69-8f2f-59f94ebdb534"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/us\/politics\/trump-mueller-report.html",
+         "adx_keywords":"United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Special Prosecutors (Independent Counsel);Trump, Donald J;Justice Department;Attorneys General;Barr, William P;Mueller, Robert S III;Russia",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By ANNIE KARNI and MAGGIE HABERMAN",
+         "type":"Article",
+         "title":"Emboldened by His Attorney General, Trump Confronts Mueller Report Head-On",
+         "abstract":"The president\u2019s plan of attack is to act as if the report itself is extraneous to his attorney general\u2019s brief letter, aides said.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006459959,
+         "asset_id":100000006459959,
+         "views":3,
+         "des_facet":[
+            "UNITED STATES POLITICS AND GOVERNMENT",
+            "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+         ],
+         "org_facet":[
+            "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+            "JUSTICE DEPARTMENT",
+            "ATTORNEYS GENERAL"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J",
+            "BARR, WILLIAM P",
+            "MUELLER, ROBERT S III"
+         ],
+         "geo_facet":[
+            "RUSSIA"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Trump\u2019s mood has been lighter since the report was filed, people close to him said.",
+               "copyright":"Tom Brenner for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/14dc-muellerspin-hp-promo\/14dc-muellerspin-hp-promo-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/14dc-muellerspin-hp-promo\/14dc-muellerspin-hp-promo-mediumThreeByTwo210-v3.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/us\/14dc-muellerspin-hp-promo\/14dc-muellerspin-hp-promo-mediumThreeByTwo440-v3.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/95bf81c3-7776-5380-bfdd-ca0d18489057"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/interactive\/2019\/04\/13\/us\/google-location-tracking-police.html",
+         "adx_keywords":"Search and Seizure;Data-Mining and Database Marketing;Global Positioning System;Wireless Communications;Search Engines;Fourth Amendment (US Constitution);Surveillance of Citizens by Government;Privacy;Murders, Attempted Murders and Homicides;Mobile Applications;Advertising and Marketing;Apple Inc;Google Inc;United States",
+         "column":"",
+         "section":"U.S.",
+         "byline":"By JENNIFER VALENTINO-DeVRIES",
+         "type":"Interactive",
+         "title":"Tracking Phones, Google Is a Dragnet for the Police",
+         "abstract":"The tech giant records people\u2019s locations worldwide. Now, investigators are using it to find suspects and witnesses near crimes, running the risk of snaring the innocent.",
+         "published_date":"2019-04-13",
+         "source":"The New York Times",
+         "id":100000006456718,
+         "asset_id":100000006456718,
+         "views":4,
+         "des_facet":[
+            "SEARCH AND SEIZURE",
+            "DATA-MINING AND DATABASE MARKETING",
+            "GLOBAL POSITIONING SYSTEM",
+            "WIRELESS COMMUNICATIONS",
+            "SEARCH ENGINES",
+            "FOURTH AMENDMENT (US CONSTITUTION)",
+            "SURVEILLANCE OF CITIZENS BY GOVERNMENT",
+            "PRIVACY",
+            "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+            "MOBILE APPLICATIONS",
+            "ADVERTISING AND MARKETING"
+         ],
+         "org_facet":[
+            "APPLE INC",
+            "GOOGLE INC"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "UNITED STATES"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"The site of a shooting in Avondale, a Phoenix suburb.",
+               "copyright":"Alex Welsh for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/obituaries\/archives\/00warrants-704\/00warrants-704-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/obituaries\/archives\/00warrants-704\/merlin_153387114_347b89ce-29d4-46f5-b61e-14ed7e42b97e-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/obituaries\/archives\/00warrants-704\/merlin_153387114_347b89ce-29d4-46f5-b61e-14ed7e42b97e-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/interactive\/4b5fd733-d9ff-58ce-a5b8-f38cbd4afd7f"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/arts\/television\/game-of-thrones-hbo-producer.html",
+         "adx_keywords":"Television;Caulfield, Bernadette;Game of Thrones (TV Program);Home Box Office;Benioff, David;Weiss, D B",
+         "column":null,
+         "section":"Arts",
+         "byline":"By JEREMY EGNER",
+         "type":"Article",
+         "title":"\u2018Game of Thrones\u2019: Meet the Woman Who Is the \u2018Best Thing That Ever Happened to the Show\u2019",
+         "abstract":"Most fans probably don\u2019t know the name Bernadette Caulfield. But this executive producer is considered a behind-the-scenes star of HBO\u2019s epic drama.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006445260,
+         "asset_id":100000006445260,
+         "views":5,
+         "des_facet":[
+            "TELEVISION"
+         ],
+         "org_facet":[
+            "HOME BOX OFFICE"
+         ],
+         "per_facet":[
+            "CAULFIELD, BERNADETTE",
+            "BENIOFF, DAVID",
+            "WEISS, D B"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Bernadette Caulfield, an executive producer of &ldquo;Game of Thrones,&rdquo; on the set. Emilia Clarke, who plays the dragon queen Daenerys Targaryen, described her as &ldquo;the beating heart of our show.&rdquo;",
+               "copyright":"Macall Polay\/HBO",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/arts\/14got-producer2\/14got-producer2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/arts\/14got-producer2\/14got-producer2-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/arts\/14got-producer2\/14got-producer2-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/62ccc05d-79b2-5546-bf05-c3ddd5557463"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/your-money\/tax-refund-paycheck-withholding.html",
+         "adx_keywords":"Tax Preparers and Preparation;Tax Credits, Deductions and Exemptions;Federal Taxes (US);Income Tax;Personal Finances;Internal Revenue Service;H&R Block Inc;Rebates and Refunds;Tax Cuts and Jobs Act (2017)",
+         "column":null,
+         "section":"Your Money",
+         "byline":"By TARA SIEGEL BERNARD",
+         "type":"Article",
+         "title":"Shocked by Your Tax Refund? Next Year Could Be Worse Unless You Act Now",
+         "abstract":"Fewer taxpayers have received refunds so far this year, and refunds are smaller. Now is the time to check your paycheck withholdings.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006456678,
+         "asset_id":100000006456678,
+         "views":6,
+         "des_facet":[
+            "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS",
+            "FEDERAL TAXES (US)",
+            "INCOME TAX",
+            "TAX CUTS AND JOBS ACT (2017)"
+         ],
+         "org_facet":[
+            "TAX PREPARERS AND PREPARATION",
+            "PERSONAL FINANCES",
+            "INTERNAL REVENUE SERVICE",
+            "H&R BLOCK INC",
+            "REBATES AND REFUNDS"
+         ],
+         "per_facet":"",
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Do this important task: Check your paycheck withholdings.",
+               "copyright":"Shirley Yu for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/business\/14withhold2\/14withhold2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/business\/14withhold2\/merlin_153441234_d51cb322-dcf5-482e-905f-149b32bf1fc2-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/business\/14withhold2\/merlin_153441234_d51cb322-dcf5-482e-905f-149b32bf1fc2-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/a01fa45f-68d8-5ac2-9127-08ed57c19a6d"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/15\/world\/europe\/notre-dame-fire.html",
+         "adx_keywords":"Fires and Firefighters;Historic Buildings and Sites;Paris (France);Notre Dame Cathedral (Paris, France)",
+         "column":null,
+         "section":"World",
+         "byline":"By AURELIEN BREEDEN",
+         "type":"Article",
+         "title":"Part of Notre-Dame Cathedral Spire Collapses in Fire",
+         "abstract":"Video filmed by onlookers showed flames and smoke billowing from the Paris building. The cathedral was evacuated, and the fire\u2019s cause was not known.",
+         "published_date":"2019-04-15",
+         "source":"The New York Times",
+         "id":100000006461755,
+         "asset_id":100000006461755,
+         "views":7,
+         "des_facet":[
+            "FIRES AND FIREFIGHTERS",
+            "HISTORIC BUILDINGS AND SITES"
+         ],
+         "org_facet":[
+            "NOTRE DAME CATHEDRAL (PARIS, FRANCE)"
+         ],
+         "per_facet":"",
+         "geo_facet":[
+            "PARIS (FRANCE)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Flames and smoke billowing from the roof of the Cathedral of Notre-Dame in Paris on Monday.",
+               "copyright":"Geoffroy Van Der Hasselt\/Agence France-Presse \u2014 Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/world\/15notredame-sub2\/15notredame-sub2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/world\/15notredame-sub2\/merlin_153562326_54e9c356-1f23-4076-8290-892467f5e577-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/world\/15notredame-sub2\/merlin_153562326_54e9c356-1f23-4076-8290-892467f5e577-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/ff9832f9-c755-5a0c-8997-f530c44f33ef"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/arts\/television\/game-of-thrones-season-8-premiere-winterfell-review.html",
+         "adx_keywords":"Television;Game of Thrones (TV Program)",
+         "column":"Game of Thrones",
+         "section":"Arts",
+         "byline":"By JEREMY EGNER",
+         "type":"Article",
+         "title":"\u2018Game of Thrones\u2019 Season 8, Episode 1: Dragon Rides and Awkward Reunions",
+         "abstract":"Sunday\u2019s soapy but generally satisfying setup for the final run of \u201cGame of Thrones\u201d included new conflicts and old grudges as the sides coalesced in Winterfell and King\u2019s Landing for the wars to come.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006460312,
+         "asset_id":100000006460312,
+         "views":8,
+         "des_facet":[
+            "TELEVISION"
+         ],
+         "org_facet":"",
+         "per_facet":"",
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Emilia Clarke in \u201cGame of Thrones.\u201d",
+               "copyright":"Helen Sloan\/HBO",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/arts\/television\/14thrones-recap-4\/14thrones-recap-4-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/arts\/television\/14thrones-recap-4\/14thrones-recap-4-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/arts\/television\/14thrones-recap-4\/14thrones-recap-4-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/58aae10a-31d0-54f1-b004-035447084e8c"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/interactive\/2019\/arts\/game-of-thrones.html",
+         "adx_keywords":"Game of Thrones (TV Program);Home Box Office;Beyond the Wall;Television;Martin, George R R;Coster-Waldau, Nikolaj;Headey, Lena;Turner, Sophie (1996- );Williams, Maisie (1997- );Nairn, Kristian (1975- );Christie, Gwendoline",
+         "column":"Game of Thrones",
+         "section":"Arts",
+         "byline":"By THE NEW YORK TIMES",
+         "type":"Interactive",
+         "title":"\u2018Game of Thrones\u2019 Season 8: The Ultimate Guide",
+         "abstract":"An obsessive\u2019s guide to the final season of \u201cGame of Thrones.\u201d Join us for complete episode recaps, deep dives into past twists and tributes to characters we loved (and lost). Season 8 is here.",
+         "published_date":"2019-03-18",
+         "source":"The New York Times",
+         "id":100000006412618,
+         "asset_id":100000006412618,
+         "views":9,
+         "des_facet":[
+            "TELEVISION"
+         ],
+         "org_facet":[
+            "HOME BOX OFFICE",
+            "BEYOND THE WALL"
+         ],
+         "per_facet":[
+            "MARTIN, GEORGE R R",
+            "COSTER-WALDAU, NIKOLAJ",
+            "HEADEY, LENA",
+            "TURNER, SOPHIE (1996- )",
+            "WILLIAMS, MAISIE (1997- )",
+            "NAIRN, KRISTIAN (1975- )",
+            "CHRISTIE, GWENDOLINE"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Courtesy of HBO",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/03\/15\/arts\/television\/game-of-thrones-slideshow-slide-0TH1\/game-of-thrones-slideshow-slide-0TH1-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/03\/15\/arts\/television\/game-of-thrones-slideshow-slide-0TH1\/game-of-thrones-slideshow-slide-0TH1-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/03\/15\/arts\/television\/game-of-thrones-slideshow-slide-0TH1\/game-of-thrones-slideshow-slide-0TH1-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/interactive\/70cedeac-d4f8-5244-94b4-0b7e48616f67"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/interactive\/2019\/04\/12\/sports\/basketball\/stephen-curry-warriors-popcorn.html",
+         "adx_keywords":"Basketball;Golden State Warriors;Curry, Stephen;Popcorn",
+         "column":"",
+         "section":"Sports",
+         "byline":"By MARC STEIN",
+         "type":"Interactive",
+         "title":"Stephen Curry Has a Popcorn Problem",
+         "abstract":"As the N.B.A. playoffs begin, the Golden State Warriors superstar guard tells all about his favorite snack and how it fuels his sharpshooting",
+         "published_date":"2019-04-12",
+         "source":"The New York Times",
+         "id":100000006458750,
+         "asset_id":100000006458750,
+         "views":10,
+         "des_facet":[
+            "BASKETBALL",
+            "POPCORN"
+         ],
+         "org_facet":[
+            "GOLDEN STATE WARRIORS"
+         ],
+         "per_facet":[
+            "CURRY, STEPHEN"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"Emily Kask for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/sports\/basketball\/stephen-curry-warriors-popcorn-1555102821254\/stephen-curry-warriors-popcorn-1555102821254-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/sports\/basketball\/stephen-curry-warriors-popcorn-1555102821254\/stephen-curry-warriors-popcorn-1555102821254-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/sports\/basketball\/stephen-curry-warriors-popcorn-1555102821254\/stephen-curry-warriors-popcorn-1555102821254-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/interactive\/6ab02ab6-bf8d-5576-b7b0-d0720843177e"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/us\/politics\/trump-immigration-stephen-miller.html",
+         "adx_keywords":"Trump, Donald J;Miller, Stephen (1985- );Immigration and Emigration;Illegal Immigration;Asylum, Right of;United States Politics and Government;Citizenship and Naturalization;Refugees and Displaced Persons;Border Patrol (US);Citizenship and Immigration Services (US);Customs and Border Protection (US);Homeland Security Department;Mexico;McAleenan, Kevin K;Nielsen, Kirstjen;Vitiello, Ronald D;Grady, Claire M;Alles, Randolph D;Cissna, L Francis;Mitnick, John;Appointments and Executive Changes",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By EILEEN SULLIVAN and MICHAEL D. SHEAR",
+         "type":"Article",
+         "title":"Trump Sees an Obstacle to Getting His Way on Immigration: His Own Officials",
+         "abstract":"The president\u2019s removal of Department of Homeland Security officials was the culmination of months of clashes over policies many say were legally dubious, unethical or impractical.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006459890,
+         "asset_id":100000006459890,
+         "views":11,
+         "des_facet":[
+            "IMMIGRATION AND EMIGRATION",
+            "ILLEGAL IMMIGRATION",
+            "ASYLUM, RIGHT OF",
+            "APPOINTMENTS AND EXECUTIVE CHANGES"
+         ],
+         "org_facet":[
+            "UNITED STATES POLITICS AND GOVERNMENT",
+            "CITIZENSHIP AND NATURALIZATION",
+            "REFUGEES AND DISPLACED PERSONS",
+            "BORDER PATROL (US)",
+            "CITIZENSHIP AND IMMIGRATION SERVICES (US)",
+            "CUSTOMS AND BORDER PROTECTION (US)",
+            "HOMELAND SECURITY DEPARTMENT"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J",
+            "MILLER, STEPHEN (1985- )",
+            "MCALEENAN, KEVIN K",
+            "NIELSEN, KIRSTJEN",
+            "VITIELLO, RONALD D",
+            "GRADY, CLAIRE M",
+            "ALLES, RANDOLPH D",
+            "CISSNA, L FRANCIS",
+            "MITNICK, JOHN"
+         ],
+         "geo_facet":[
+            "MEXICO"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stephen Miller, the architect of President Trump\u2019s immigration policy, is behind the purge at the Department of Homeland Security.",
+               "copyright":"Doug Mills\/The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/us\/15DC-IMMIGprintALT\/15DC-IMMIGprintALT-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/us\/15DC-IMMIGprintALT\/15DC-IMMIGprintALT-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/15\/us\/15DC-IMMIGprintALT\/15DC-IMMIGprintALT-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/029e0c31-3f04-562f-92d4-ff13884d916f"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/health\/gene-editing-babies.html",
+         "adx_keywords":"Genetic Engineering;Quake, Stephen;He Jiankui;Research;Ethics and Official Misconduct;Stanford University;In Vitro Fertilization;Crispr (DNA);your-feed-science",
+         "column":null,
+         "section":"Health",
+         "byline":"By PAM BELLUCK",
+         "type":"Article",
+         "title":"Gene-Edited Babies: What a Chinese Scientist Told an American Mentor",
+         "abstract":"Stanford is investigating Stephen Quake\u2019s interactions with He Jiankui, the scientist who performed the controversial experiment.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006448374,
+         "asset_id":100000006448374,
+         "views":12,
+         "des_facet":[
+            "GENETIC ENGINEERING",
+            "ETHICS AND OFFICIAL MISCONDUCT",
+            "IN VITRO FERTILIZATION",
+            "CRISPR (DNA)",
+            "YOUR-FEED-SCIENCE"
+         ],
+         "org_facet":[
+            "RESEARCH",
+            "STANFORD UNIVERSITY"
+         ],
+         "per_facet":[
+            "QUAKE, STEPHEN",
+            "HE JIANKUI"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Stanford is investigating Stephen Quake, a professor of biotechnology, because of his interaction with He Jiankui, the scientist behind the first gene-edited babies. \u201cI hold myself to high ethical standards,\u201d said Dr. Quake, who was once Dr. He\u2019s academic adviser.",
+               "copyright":"Anastasiia Sapon for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/09\/science\/13QUAKE1\/00QUAKE1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/09\/science\/13QUAKE1\/00QUAKE1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/09\/science\/13QUAKE1\/00QUAKE1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/b29ff831-cd06-554e-9236-ba504445b554"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/world\/middleeast\/isis-aid-worker.html",
+         "adx_keywords":"Islamic State in Iraq and Syria (ISIS);Kidnapping and Hostages;Akavi, Louisa;International Committee of the Red Cross;New Zealand;Terrorism;Humanitarian Aid;Syria",
+         "column":null,
+         "section":"World",
+         "byline":"By RUKMINI CALLIMACHI and ADAM GOLDMAN",
+         "type":"Article",
+         "title":"ISIS Kidnapped Her 5 Years Ago. The Red Cross Thinks She May Still Be Alive.",
+         "abstract":"The abduction of Louisa Akavi, a nurse from New Zealand, was kept secret for years. Now the aid group is breaking its silence in hopes of saving her.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006454872,
+         "asset_id":100000006454872,
+         "views":13,
+         "des_facet":[
+            "KIDNAPPING AND HOSTAGES",
+            "TERRORISM"
+         ],
+         "org_facet":[
+            "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)",
+            "INTERNATIONAL COMMITTEE OF THE RED CROSS",
+            "HUMANITARIAN AID"
+         ],
+         "per_facet":[
+            "AKAVI, LOUISA"
+         ],
+         "geo_facet":[
+            "NEW ZEALAND",
+            "SYRIA"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Louisa Akavi, a nurse from New Zealand who provided aid in Syria, was abducted by the Islamic State in October 2013.",
+               "copyright":"International Committee of the Red Cross",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/world\/middleeast\/isis-prisoner-promo\/isis-prisoner-promo-thumbStandard-v2.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/world\/middleeast\/isis-prisoner-promo\/isis-prisoner-promo-mediumThreeByTwo210-v2.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/world\/middleeast\/isis-prisoner-promo\/isis-prisoner-promo-mediumThreeByTwo440-v2.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/675322f3-1af5-5736-aefa-0e4fdd0c460d"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/nyregion\/fordham-student-falls-sydney-monfries.html",
+         "adx_keywords":"Monfries, Sydney P (1997-2019);Falls;Fordham University;Colleges and Universities;Bronx (NYC)",
+         "column":null,
+         "section":"New York",
+         "byline":"By LUIS FERR\u00c9-SADURN\u00cd",
+         "type":"Article",
+         "title":"Fordham Student, Sydney Monfries, Dies After Fall From Campus Bell Tower",
+         "abstract":"Ms. Monfries, a 22-year-old senior, died Sunday evening, hours after falling from a tower known to attract thrill-seeking students at the university\u2019s Bronx campus.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006460401,
+         "asset_id":100000006460401,
+         "views":14,
+         "des_facet":[
+            "FALLS",
+            "COLLEGES AND UNIVERSITIES"
+         ],
+         "org_facet":[
+            "FORDHAM UNIVERSITY"
+         ],
+         "per_facet":[
+            "MONFRIES, SYDNEY P (1997-2019)"
+         ],
+         "geo_facet":[
+            "BRONX (NYC)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A 22-year-old senior fell from the tower atop Keating Hall on Fordham University's Rose Hill campus in the Bronx early Sunday.",
+               "copyright":"Eirini Vourloumis for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/nyregion\/14fordham1\/14fordham1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/nyregion\/14fordham1\/14fordham1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/nyregion\/14fordham1\/14fordham1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/82a82687-e7c2-5bde-9233-8eaf3186eef5"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/business\/economy\/income-tax-cut.html",
+         "adx_keywords":"Tax Credits, Deductions and Exemptions;Federal Taxes (US);Income Tax;Tax Cuts and Jobs Act (2017);Polls and Public Opinion;United States Economy;Trump, Donald J",
+         "column":null,
+         "section":"Business",
+         "byline":"By BEN CASSELMAN and JIM TANKERSLEY",
+         "type":"Article",
+         "title":"Face It: You (Probably) Got a Tax Cut",
+         "abstract":"Studies consistently find that the 2017 law cut taxes for most Americans. Most of them don\u2019t buy it.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006458052,
+         "asset_id":100000006458052,
+         "views":15,
+         "des_facet":[
+            "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS",
+            "FEDERAL TAXES (US)"
+         ],
+         "org_facet":[
+            "INCOME TAX",
+            "TAX CUTS AND JOBS ACT (2017)",
+            "POLLS AND PUBLIC OPINION",
+            "UNITED STATES ECONOMY"
+         ],
+         "per_facet":[
+            "TRUMP, DONALD J"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"",
+               "copyright":"",
+               "approved_for_syndication":0,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/business\/tax-survey-promo\/tax-survey-promo-thumbStandard.png",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/business\/tax-survey-promo\/tax-survey-promo-mediumThreeByTwo210.png",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/business\/tax-survey-promo\/tax-survey-promo-mediumThreeByTwo440.png",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/d999ee5e-960d-54ce-bbda-4f1e36a800d4"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/13\/world\/middleeast\/bolsonaro-holocaust-forgive-israel.html",
+         "adx_keywords":"Holocaust and the Nazi Era;War Crimes, Genocide and Crimes Against Humanity;Yad Vashem Holocaust Museum;Bolsonaro, Jair (1955- );Brazil;Israel",
+         "column":null,
+         "section":"World",
+         "byline":"By MEGAN SPECIA",
+         "type":"Article",
+         "title":"Can the Holocaust Be Forgiven? Bolsonaro Says Yes, Drawing Israelis\u2019 Ire",
+         "abstract":"\u201cWe can forgive, but we cannot forget,\u201d the Brazilian president told evangelical pastors in Rio de Janeiro. Israel said he was in no position to offer such forgiveness.",
+         "published_date":"2019-04-13",
+         "source":"The New York Times",
+         "id":100000006459894,
+         "asset_id":100000006459894,
+         "views":16,
+         "des_facet":[
+            "HOLOCAUST AND THE NAZI ERA",
+            "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY"
+         ],
+         "org_facet":[
+            "YAD VASHEM HOLOCAUST MUSEUM"
+         ],
+         "per_facet":[
+            "BOLSONARO, JAIR (1955- )"
+         ],
+         "geo_facet":[
+            "BRAZIL",
+            "ISRAEL"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"President Jair Bolsonaro of Brazil during a meeting of evangelical leaders on Thursday. He suggested the Holocaust could be forgiven.",
+               "copyright":"Mauro Pimentel\/Agence France-Presse \u2014 Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/world\/13bolsonaro2\/13bolsonaro2-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/world\/13bolsonaro2\/merlin_153384126_de5c359d-37b0-4494-9a81-a51bf3715302-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/world\/13bolsonaro2\/merlin_153384126_de5c359d-37b0-4494-9a81-a51bf3715302-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/6cc510e6-b2b0-533a-a4e2-1c5daf13e625"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/technology\/china-surveillance-artificial-intelligence-racial-profiling.html",
+         "adx_keywords":"China;Computer Vision;Uighurs (Chinese Ethnic Group);Surveillance of Citizens by Government;Racial Profiling;Computers and the Internet;Minorities;Police;Cameras;Artificial Intelligence;Ministry of Public Security of the People's Republic of China;Lee, Kai-Fu;Megvii Technology Ltd;SenseTime Technology Development Co Ltd;CloudWalk Technology;Yitu Technology",
+         "column":null,
+         "section":"Technology",
+         "byline":"By PAUL MOZUR",
+         "type":"Article",
+         "title":"One Month, 500,000 Face Scans: How China Is Using A.I. to Profile a Minority",
+         "abstract":"In a major ethical leap for the tech world, Chinese start-ups have built algorithms that the government uses to track members of a largely Muslim minority group.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006438881,
+         "asset_id":100000006438881,
+         "views":17,
+         "des_facet":[
+            "COMPUTER VISION",
+            "SURVEILLANCE OF CITIZENS BY GOVERNMENT",
+            "COMPUTERS AND THE INTERNET"
+         ],
+         "org_facet":[
+            "UIGHURS (CHINESE ETHNIC GROUP)",
+            "RACIAL PROFILING",
+            "MINORITIES",
+            "POLICE",
+            "CAMERAS",
+            "ARTIFICIAL INTELLIGENCE",
+            "MINISTRY OF PUBLIC SECURITY OF THE PEOPLE'S REPUBLIC OF CHINA",
+            "MEGVII TECHNOLOGY LTD",
+            "SENSETIME TECHNOLOGY DEVELOPMENT CO LTD",
+            "CLOUDWALK TECHNOLOGY",
+            "YITU TECHNOLOGY"
+         ],
+         "per_facet":[
+            "LEE, KAI-FU"
+         ],
+         "geo_facet":[
+            "CHINA"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"SenseTime is among the Chinese artificial intelligence companies developing facial recognition technology. ",
+               "copyright":"Gilles Sabri\u00e9 for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/business\/00chinaprofiling-1\/00chinaprofiling-1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/business\/00chinaprofiling-1\/00chinaprofiling-1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/11\/business\/00chinaprofiling-1\/00chinaprofiling-1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/cfa4f324-c8bd-5629-b092-c3f390f04a52"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/12\/education\/lebron-james-school-ohio.html",
+         "adx_keywords":"James, LeBron;Philanthropy;I Promise School (Akron, Ohio);Education (K-12);Reading and Writing Skills (Education);General Educational Development Test (GED);Akron (Ohio)",
+         "column":null,
+         "section":"Education",
+         "byline":"By ERICA L. GREEN",
+         "type":"Article",
+         "title":"LeBron James Opened a School That Was Considered an Experiment. It\u2019s Showing Promise.",
+         "abstract":"The inaugural class of third and fourth graders at the school has posted extraordinary results on its first set of test scores.",
+         "published_date":"2019-04-12",
+         "source":"The New York Times",
+         "id":100000006457037,
+         "asset_id":100000006457037,
+         "views":18,
+         "des_facet":[
+            "EDUCATION (K-12)",
+            "READING AND WRITING SKILLS (EDUCATION)"
+         ],
+         "org_facet":[
+            "PHILANTHROPY",
+            "I PROMISE SCHOOL (AKRON, OHIO)",
+            "GENERAL EDUCATIONAL DEVELOPMENT TEST (GED)"
+         ],
+         "per_facet":[
+            "JAMES, LEBRON"
+         ],
+         "geo_facet":[
+            "AKRON (OHIO)"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Nataylia Henry, a fourth grader at I Promise, missed more than 50 days of school last year.",
+               "copyright":"Maddie McGarvey for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/us\/politics\/12dc-lebron14\/merlin_153293445_79c2c470-02e3-44bc-b932-0caea5aa4470-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/us\/politics\/12dc-lebron14\/merlin_153293445_79c2c470-02e3-44bc-b932-0caea5aa4470-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/12\/us\/politics\/12dc-lebron14\/merlin_153293445_79c2c470-02e3-44bc-b932-0caea5aa4470-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/965dff25-81b7-5808-a86d-e49cbda19bc4"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/13\/opinion\/1919-amrtisar-british-empire-india.html",
+         "adx_keywords":"Demonstrations, Protests and Riots;Politics and Government;World War I (1914-18);Colonialism;East India Co;Tagore, Rabindranath;Amritsar (India);India;Great Britain",
+         "column":null,
+         "section":"Opinion",
+         "byline":"By GYAN PRAKASH",
+         "type":"Article",
+         "title":"The Massacre That Led to the End of the British Empire",
+         "abstract":"The events at Jallianwala Bagh, in the Indian city of Amritsar, marked the beginning of the resistance against colonial governance.",
+         "published_date":"2019-04-13",
+         "source":"The New York Times",
+         "id":100000006453497,
+         "asset_id":100000006453497,
+         "views":19,
+         "des_facet":[
+            "DEMONSTRATIONS, PROTESTS AND RIOTS",
+            "POLITICS AND GOVERNMENT"
+         ],
+         "org_facet":[
+            "WORLD WAR I (1914-18)",
+            "EAST INDIA CO"
+         ],
+         "per_facet":[
+            "TAGORE, RABINDRANATH"
+         ],
+         "geo_facet":[
+            "AMRITSAR (INDIA)",
+            "INDIA",
+            "GREAT BRITAIN"
+         ],
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"A painting depicting the Amritsar Massare at Jallianwala Bagh in Amritsar.",
+               "copyright":"Narinder Nanu\/Agence France-Presse &mdash; Getty Images",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/opinion\/13prakash1\/13prakash1-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/opinion\/13prakash1\/13prakash1-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/13\/opinion\/13prakash1\/13prakash1-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/d5280a23-6dff-5a48-8798-d29c22f9f969"
+      },
+      {
+         "url":"https:\/\/www.nytimes.com\/2019\/04\/14\/us\/politics\/bernie-sanders-2020-candidates.html",
+         "adx_keywords":"Presidential Election of 2020;Sanders, Bernard;Democratic Party;Tanden, Neera;Think Tanks;Warren, Elizabeth;Booker, Cory A;Clinton, Hillary Rodham;Center for American Progress;ThinkProgress (Blog)",
+         "column":null,
+         "section":"U.S.",
+         "byline":"By KENNETH P. VOGEL and SYDNEY EMBER",
+         "type":"Article",
+         "title":"Bernie Sanders Accuses Liberal Think Tank of Smearing Progressive Candidates",
+         "abstract":"The Vermont senator\u2019s criticism of the Center for American Progress threatens to inflame the ideological divisions that roiled the Democratic Party in 2016.",
+         "published_date":"2019-04-14",
+         "source":"The New York Times",
+         "id":100000006460156,
+         "asset_id":100000006460156,
+         "views":20,
+         "des_facet":[
+            "PRESIDENTIAL ELECTION OF 2020",
+            "THINK TANKS"
+         ],
+         "org_facet":[
+            "DEMOCRATIC PARTY",
+            "CENTER FOR AMERICAN PROGRESS",
+            "THINKPROGRESS (BLOG)"
+         ],
+         "per_facet":[
+            "SANDERS, BERNARD",
+            "TANDEN, NEERA",
+            "WARREN, ELIZABETH",
+            "BOOKER, CORY A",
+            "CLINTON, HILLARY RODHAM"
+         ],
+         "geo_facet":"",
+         "media":[
+            {
+               "type":"image",
+               "subtype":"photo",
+               "caption":"Senator Bernie Sanders of Vermont at a campaign rally in Madison, Wis., on Friday. He said the Center for American Progress was \u201cusing its resources to smear\u201d him and other progressive presidential candidates.",
+               "copyright":"Lauren Justice for The New York Times",
+               "approved_for_syndication":1,
+               "media-metadata":[
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/world\/14sanders-letter\/merlin_153463932_ac87127e-410a-4cae-954d-d4c3507ffa92-thumbStandard.jpg",
+                     "format":"Standard Thumbnail",
+                     "height":75,
+                     "width":75
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/world\/14sanders-letter\/merlin_153463932_ac87127e-410a-4cae-954d-d4c3507ffa92-mediumThreeByTwo210.jpg",
+                     "format":"mediumThreeByTwo210",
+                     "height":140,
+                     "width":210
+                  },
+                  {
+                     "url":"https:\/\/static01.nyt.com\/images\/2019\/04\/14\/world\/14sanders-letter\/merlin_153463932_ac87127e-410a-4cae-954d-d4c3507ffa92-mediumThreeByTwo440.jpg",
+                     "format":"mediumThreeByTwo440",
+                     "height":293,
+                     "width":440
+                  }
+               ]
+            }
+         ],
+         "uri":"nyt:\/\/article\/29e282f7-cb3e-5075-874b-c09d8b950290"
+      }
+   ]
+}
